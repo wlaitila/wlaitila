@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi, I'm [William]!
+## Hi - 👋
 
 Welcome to my GitHub profile!  
 I'm a student at TUC in Sweden studying full-stack development.  
