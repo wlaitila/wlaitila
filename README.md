@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**wlaitila/wlaitila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm [William]!
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!  
+I'm a student at TUC in Sweden studying full-stack development.  
+My main focus is C#, HTML, CSS, and JavaScript within the .NET framework.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- Building a full-stack web application in .NET using MVC
+- Learning modern front-end frameworks, right now im focusing on Bootstrap
+
+## 💡 Skills
+- **Languages:** C#, JavaScript, HTML, CSS
+- **Frameworks:** .NET
+- **Other:** Git, GitHub, SQL
