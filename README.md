@@ -2,13 +2,11 @@
 
 Welcome to my GitHub profile!  
 I'm a student at TUC in Sweden studying full-stack development.  
-My main focus is C#, HTML, CSS, and JavaScript within the .NET framework.
+My main focus is C#, HTML, CSS, and JavaScript/TypeScript
 
 ## Current Projects
-- Building a full-stack web application in .NET using MVC
-- Learning modern front-end frameworks, right now im focusing on Bootstrap
+Learning more about Javascript/TypeScript with React.
 
 ## 💡 Skills
-- **Languages:** C#, JavaScript, HTML, CSS
-- **Frameworks:** .NET
+- **Languages:** C#, JavaScript/TypeScript, HTML, CSS.
 - **Other:** Git, GitHub, SQL
